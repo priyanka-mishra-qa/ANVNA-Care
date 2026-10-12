@@ -10,11 +10,7 @@ public class Login {
 	public static void main(String[] args) throws InterruptedException
 
 	{
-		/* Not Working
-		 * WebDriver driver = new ChromeDriver();
-		 * driver.manage().window().maximize();
-		 */ 
-
+		
 		WebDriver driver = new FirefoxDriver();
 		Thread.sleep(3000);
 

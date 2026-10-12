@@ -253,7 +253,7 @@ public class AddToCart {
         Thread.sleep(2000);
         
         // My Order
-        WebElement myOrder = driver.findElement(By.cssSelector("input[data-testid= 'success-orders-btn']"));
+        WebElement myOrder = driver.findElement(By.cssSelector("a[id='successOrdersBtn']"));
         myOrder.click();
         
         String url11 = driver.getCurrentUrl();

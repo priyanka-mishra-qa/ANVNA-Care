@@ -11,11 +11,7 @@ public class Register {
 	public static void main(String[] args) 
 	throws InterruptedException
 	{
-		/* Not Working
-		 * WebDriver driver = new ChromeDriver();
-		 * driver.manage().window().maximize();
-		 */ 
-
+		
 		WebDriver driver = new FirefoxDriver();
 		Thread.sleep(3000);
 
@@ -61,7 +57,7 @@ public class Register {
 		submit.click();
 		
 		Thread.sleep(3000);
-		driver.quit();
+		//driver.quit();
 	
 	}
 	
