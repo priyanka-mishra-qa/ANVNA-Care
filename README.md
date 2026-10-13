@@ -1,6 +1,6 @@
 # ANVNA Care - Selenium Automation Project
 
-A Selenium WebDriver practice project created as part of my software testing training.
+A Selenium WebDriver practice project created as part of my Software Testing training.
 
 ## About the Project
 
@@ -17,8 +17,8 @@ I am using this project to practise browser automation, locating web elements, i
 - Java
 - Selenium WebDriver
 - Maven
+- Eclipse
 - Google Chrome
-- Visual Studio Code
 
 ## Project Structure
 
@@ -53,4 +53,4 @@ Software Testing Learner | Manual Testing | Java | Selenium WebDriver | SQL
 
 ---
 
-This project is maintained for learning and practice as part of my software testing training.
+This project is maintained for learning and practice as part of my Software Testing training.
